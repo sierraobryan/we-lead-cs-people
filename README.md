@@ -20,6 +20,7 @@ During this session, you'll be making contributions by:
      "interests": ["Interest 1", "Interest 2"],
      "location": "Your Location"
    }
+   ```
 4. **Creating a pull request**: After making your changes, you'll push your changes and open a pull request.
 5. **Resolving merge conflicts**: You’ll also practice resolving any merge conflicts that may arise if there are changes from others.
 
