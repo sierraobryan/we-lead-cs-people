@@ -1,26 +1,54 @@
-[
-  {
-    "name": "Alice Johnson",
-    "bio": "A passionate developer with a love for creating web applications.",
-    "photo": "https://example.com/photos/alice.jpg",
-    "skills": ["HTML", "CSS", "JavaScript", "React"],
-    "interests": ["Web Development", "UI/UX Design", "Game Development"],
-    "location": "New York"
-  },
-  {
-    "name": "Bob Smith",
-    "bio": "Backend developer specializing in APIs and server-side technologies.",
-    "photo": "https://example.com/photos/bob.jpg",
-    "skills": ["Node.js", "Express", "MongoDB", "Python"],
-    "interests": ["Cloud Computing", "Machine Learning"],
-    "location": "California"
-  },
-  {
-    "name": "Charlie Lee",
-    "bio": "Creative designer with a knack for building interactive experiences.",
-    "photo": "https://example.com/photos/charlie.jpg",
-    "skills": ["Photoshop", "Illustrator", "Figma", "Sketch"],
-    "interests": ["Design Systems", "Interactive Media", "Graphic Design"],
-    "location": "Chicago"
-  }
-]
+{
+    "people": [
+        {
+            "name": "Alice Johnson",
+            "bio": "A passionate developer with a love for creating web applications.",
+            "photo": "https://example.com/photos/alice.jpg",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React"
+            ],
+            "interests": [
+                "Web Development",
+                "UI/UX Design",
+                "Game Development"
+            ],
+            "location": "New York"
+        },
+        {
+            "name": "Bob Smith",
+            "bio": "Backend developer specializing in APIs and server-side technologies.",
+            "photo": "https://example.com/photos/bob.jpg",
+            "skills": [
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "Python"
+            ],
+            "interests": [
+                "Cloud Computing",
+                "Machine Learning"
+            ],
+            "location": "California"
+        },
+        {
+            "name": "Charlie Lee",
+            "bio": "Creative designer with a knack for building interactive experiences.",
+            "photo": "https://example.com/photos/charlie.jpg",
+            "skills": [
+                "Photoshop",
+                "Illustrator",
+                "Figma",
+                "Sketch"
+            ],
+            "interests": [
+                "Design Systems",
+                "Interactive Media",
+                "Graphic Design"
+            ],
+            "location": "Chicago"
+        }
+    ]
+}
