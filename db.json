@@ -51,16 +51,35 @@
             "location": "Chicago"
         },
         {
+            "name": "Sierra OBryan",
+            "bio": "Engineering Manager who loves mobile dev, dogs, and snacks",
+            "photo": "https://media.licdn.com/dms/image/v2/D4D03AQHUOu4EdFrOFw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1712280533373?e=1750291200&v=beta&t=cJAEA2xL8yGDCQGV75HJyktdFf_MgzBaRuaL5pBfNJg",
+            "skills": [
+                "Android",
+                "Kotlin",
+                "git",
+                "Managing"
+            ],
+            "interests": [
+                "Mobile Development",
+                "accessibility",
+                "public speaking"
+            ],
+            "location": "Cincinnati, OH"
+        },
+        {
             "name": "Peyton Goodlett",
             "bio": "iLead Academy sophomore student in the computer science pathway.",
             "photo": "https://example.com/photos/peyton.jpg",
             "skills": [
-                "Python", 
-                "HTML, CSS, JS"],
+                "Python",
+                "HTML, CSS, JS"
+            ],
             "interests": [
                 "Computer Hardware",
-                "Software Development"],
+                "Software Development"
+            ],
             "location": "Carrollton"
-          }
+        }
     ]
 }
