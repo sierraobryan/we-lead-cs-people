@@ -51,6 +51,21 @@
             "location": "Chicago"
         },
         {
+            "name": "Jason Oliver",
+            "bio": "Computer science.",
+            "photo": "https://example.com/photos/charlie.jpg",
+            "skills": [
+                "HTML",
+                "Python"
+            ],
+            "interests": [
+                "Gmaing",
+                "Pickelball ",
+                "Fishing "
+            ],
+            "location": "Kentucky"
+        },
+        {
             "name": "Elias Cardoso-Ortiz",
             "bio": "A person who likes to code.",
             "photo": "https://example.com/photos/charlie.jpg",
