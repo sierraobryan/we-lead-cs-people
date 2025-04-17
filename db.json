@@ -49,15 +49,14 @@
                 "Graphic Design"
             ],
             "location": "Chicago"
-    
-            
+        },
+        {
             "name": "Jason Oliver",
             "bio": "Computer science.",
             "photo": "https://example.com/photos/charlie.jpg",
             "skills": [
                 "HTML",
-                "Python",
-                
+                "Python"
             ],
             "interests": [
                 "Gmaing",
@@ -65,6 +64,104 @@
                 "Fishing "
             ],
             "location": "Kentucky"
+        },
+        {
+            "name": "Elias Cardoso-Ortiz",
+            "bio": "A person who likes to code.",
+            "photo": "https://example.com/photos/charlie.jpg",
+            "skills": [
+                "Python",
+                "IC3",
+                "C#",
+                "HTML"
+            ],
+            "interests": [
+                "Vide game design",
+                "Software Design",
+                "Graphic Design"
+            ],
+            "location": "Kentucky"
+        },
+        {
+            "name": "Logan Clifton",
+            "bio": "Sophomore at iLEAD Academy.",
+            "photo": "I do not have one.",
+            "skills": [
+                "HTML",
+                "CSS",
+                "Python",
+                "Github"
+            ],
+            "interests": [
+                "Gaming",
+                "Audio Editing",
+                "Football"
+            ],
+            "location": "Kentucky"
+        },
+        {
+            "name": "Elizbeth Newell",
+            "bio": "Young computer science student.",
+            "photo": "https://example.com/photos/charlie.jpg",
+            "skills": [
+                "HTML",
+                "Excel Management",
+                "Python",
+                "Webdesign"
+            ],
+            "interests": [
+                "political science",
+                "Human rights",
+                "Math"
+            ],
+            "location": "Kentucky"
+        },
+        {
+            "name": "Sierra OBryan",
+            "bio": "Engineering Manager who loves mobile dev, dogs, and snacks",
+            "photo": "https://media.licdn.com/dms/image/v2/D4D03AQHUOu4EdFrOFw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1712280533373?e=1750291200&v=beta&t=cJAEA2xL8yGDCQGV75HJyktdFf_MgzBaRuaL5pBfNJg",
+            "skills": [
+                "Android",
+                "Kotlin",
+                "git",
+                "Managing"
+            ],
+            "interests": [
+                "Mobile Development",
+                "accessibility",
+                "public speaking"
+            ],
+            "location": "Cincinnati, OH"
+        },
+        {
+            "name": "Peyton Goodlett",
+            "bio": "iLead Academy sophomore student in the computer science pathway.",
+            "photo": "https://example.com/photos/peyton.jpg",
+            "skills": [
+                "Python",
+                "HTML, CSS, JS"
+            ],
+            "interests": [
+                "Computer Hardware",
+                "Software Development"
+            ],
+            "location": "Carrollton"
+        },
+        {
+            "name": "Logan Walker",
+            "bio": "Teacher at WLCS. I teach Cybersecurity/CIT 105/CIT 111.",
+            "photo": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/j_cena.png",
+            "skills": [
+                "Cybersecurity",
+                "A+",
+                "Networking"
+            ],
+            "interests": [
+                "Video games",
+                "Sports",
+                "Wrestling"
+            ],
+            "location": "Owensboro KY"
         }
     ]
 }
