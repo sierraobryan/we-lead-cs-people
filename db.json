@@ -49,6 +49,23 @@
                 "Graphic Design"
             ],
             "location": "Chicago"
+        },
+   {
+            "name": "Elizbeth Newell",
+            "bio": "Young computer science student.",
+            "photo": "https://example.com/photos/charlie.jpg",
+            "skills": [
+                "HTML",
+                "Excel Management",
+                "Python",
+                "Webdesign"
+            ],
+            "interests": [
+                "political science",
+                "Human rights",
+                "Math"
+            ],
+            "location": "Kentucky"
         }
     ]
 }
