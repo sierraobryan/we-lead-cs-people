@@ -57,7 +57,7 @@
             "skills": [
                 "Android",
                 "Kotlin",
-                "git", 
+                "git",
                 "Managing"
             ],
             "interests": [
@@ -66,6 +66,20 @@
                 "public speaking"
             ],
             "location": "Cincinnati, OH"
+        },
+        {
+            "name": "Peyton Goodlett",
+            "bio": "iLead Academy sophomore student in the computer science pathway.",
+            "photo": "https://example.com/photos/peyton.jpg",
+            "skills": [
+                "Python",
+                "HTML, CSS, JS"
+            ],
+            "interests": [
+                "Computer Hardware",
+                "Software Development"
+            ],
+            "location": "Carrollton"
         }
     ]
 }
