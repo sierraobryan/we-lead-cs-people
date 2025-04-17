@@ -49,6 +49,23 @@
                 "Graphic Design"
             ],
             "location": "Chicago"
+        },
+        {
+            "name": "Elias Cardoso-Ortiz",
+            "bio": "A person who likes to code.",
+            "photo": "https://example.com/photos/charlie.jpg",
+            "skills": [
+                "Python",
+                "IC3",
+                "C#",
+                "HTML"
+            ],
+            "interests": [
+                "Vide game design",
+                "Software Design",
+                "Graphic Design"
+            ],
+            "location": "Kentucky"
         }
     ]
 }
