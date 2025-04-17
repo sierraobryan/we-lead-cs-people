@@ -49,6 +49,23 @@
                 "Graphic Design"
             ],
             "location": "Chicago"
+        },
+	{
+            "name": "Logan Clifton",
+            "bio": "Sophomore at iLEAD Academy.",
+            "photo": "I do not have one.",
+            "skills": [
+                "HTML",
+                "CSS",
+                "Python",
+                "Github"
+            ],
+            "interests": [
+                "Gaming",
+                "Audio Editing",
+                "Football"
+            ],
+            "location": "Kentucky"
         }
     ]
 }
