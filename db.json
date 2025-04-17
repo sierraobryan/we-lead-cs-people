@@ -97,8 +97,8 @@
                 "Software Development"
             ],
             "location": "Carrollton"
-        }
-	  {
+        },
+        {
             "name": "Logan Walker",
             "bio": "Teacher at WLCS. I teach Cybersecurity/CIT 105/CIT 111.",
             "photo": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/j_cena.png",
@@ -106,7 +106,6 @@
                 "Cybersecurity",
                 "A+",
                 "Networking"
-                
             ],
             "interests": [
                 "Video games",
