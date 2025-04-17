@@ -49,6 +49,22 @@
                 "Graphic Design"
             ],
             "location": "Chicago"
+        },
+        {
+            "name": "Sierra OBryan",
+            "bio": "Engineering Manager who loves mobile dev, dogs, and snacks",
+            "photo": "https://media.licdn.com/dms/image/v2/D4D03AQHUOu4EdFrOFw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1712280533373?e=1750291200&v=beta&t=cJAEA2xL8yGDCQGV75HJyktdFf_MgzBaRuaL5pBfNJg",
+            "skills": [
+                "Android",
+                "Kotlin",
+                "git"
+            ],
+            "interests": [
+                "Mobile Development",
+                "accessibility",
+                "public speaking"
+            ],
+            "location": "Cincinnati, OH"
         }
     ]
 }
